@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alaa</h1>
 <h3 align="center">Dévoloepeur full stack</h3>
 
-- 💬 **je suis actuellement en formation en développement full stack à IT- Akademy. Je vous adresse la présente lettre afin de vous faire part de ma forte volonté d'effectuer un stage au sein de votre entreprise du 16 juin au 25 octobre. Ma formation m'a permis d'acquérir des compétences solides en développement, notamment en HTML, CSS, Bootstrap, JavaScript (y compris React et React Native), ainsi qu'en Node.js. De plus, j'ai des connaissances pratiques en PHP avec le framework Symfony, ainsi qu'en Python et Java. Outre mes compétences techniques, je suis également capable de travailler efficacement en équipe. Je suis convaincu que mon enthousiasme pour le développement et ma capacité à collaborer avec mes collègues seront des atouts précieux pour votre entreprise. Je suis disponible pour un entretien à votre convenance afin de discuter plus en détail de la manière dont je pourrais contribuer à votre équipe pendant la période de stage. Je vous remercie sincèrement de prendre en considération ma demande et je me tiens à votre disposition pour toute information supplémentaire.**
-
 - 📫 **aedalaa36@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
